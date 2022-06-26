@@ -1,4 +1,4 @@
-#PYTHON_LEARN
+# PYTHON_LEARN
 This is a repository to record the note of way to use Pyhthon.
 
 # Variable

@@ -1,5 +1,5 @@
 # PYTHON_LEARN
-This is a repository to record the note of way to use Pyhthon.
+This is a repository that I create to learn Python.
 
 # Variable
 An element, feature, or factor that is liable to vary or change.

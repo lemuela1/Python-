@@ -12,7 +12,7 @@ For example:
     >>> x = "Lemuela"
     >>> x = "中文字符"
 
-The value of x equal to the last value you give.
+The value of variable equal to the last value you given.
 
     >>> x = 1
     >>> y = 3

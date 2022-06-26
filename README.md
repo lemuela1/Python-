@@ -1,4 +1,4 @@
-# PYTHON_LEARN
+# PYTHON_LEARNING
 This is a repository that I create for Python learning.
 
 # Variable

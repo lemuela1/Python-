@@ -3,7 +3,7 @@ This is a repository that I create for Python learning.
 
 # Variable
 An element, feature, or factor that is liable to vary or change.
-Using assigment operator, you can assign something with Variable.
+Using assigment operator, you can assign something to Variable.
 For example:
 
     >>> x = 2

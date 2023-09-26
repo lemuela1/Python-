@@ -260,3 +260,31 @@ The if-else statement is used to execute both the true part and the false part o
     ...     print("x <= 1")
     ...
     x <= 1
+
+# Presentation
+
+## Less is More
+
+## 8 sec to hold attention in each slide
+
+## six line per slide, six word per line
+
+## type faces -> easy to read
+
+## Size
+
+## Reverse text
+    - blake background for enphersize
+    
+## strong photograph
+
+## Visualizing Data
+    - clear type
+    - simple graphics
+    - color
+    - background
+
+## Time
+
+# Low-level Programming vs. High-level Programming
+- 

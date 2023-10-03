@@ -261,6 +261,34 @@ The if-else statement is used to execute both the true part and the false part o
     ...
     x <= 1
 
+# Error
+
+## SyntaxError
+- The program contain invalid code that cannot be understood
+
+## Indentational Error
+- The lines of the program are not properly indented
+
+## ValueError 
+- An invalid value is used - can occur if giving letters to int()
+
+## NameError
+- The program tries to use a variable that does not exist
+
+## TypeError
+- An operation users incorrect types - can occur if adding an integer to a string.
+
+# Debug
+
+## break point
+    - At the left bar, you can add break point to decide where the Debug stop
+    - still images
+
+## Watch
+    - Can choose which variable to watch on.
+    - You can voluntarily choose weather you go from one break point into next line.
+    - Or you can use play button to go to the next break point.
+
 # Presentation
 
 ## Less is More
